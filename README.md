@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Tumblr_static_nyan_cat_animation_new](https://github.com/Gemmus/Gemmus/assets/112064697/6b219c2b-ca3f-4416-8965-c9cb9099ed7c)
+
 ![Gemmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/Gemmus/github-readme-stats)
