@@ -39,7 +39,7 @@
    <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight" />
 </div>
 
-<h2 align="left">💾 My Projects:</h2>
+<h2 align="left">💾 Projects:</h2>
 <div align="left" dir="auto"> 
   <ul>
     <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website:</a> Fictional static website </a></li>
