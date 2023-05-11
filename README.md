@@ -40,13 +40,21 @@
 </div>
 
 <h2 align="left">💾 My Projects:</h2>
-<ul>
-  <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website</a> - Fictional static website </li>
-  <li><a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html">Binge-watcher</a> - Interactive website built with TVmaze API to search for television shows </li>
-  <li><a href="https://github.com/Gemmus/HeartRateDetector">Heart Rate Detector</a> - Software implementation of a pulse detector on an embedded device</li>
-  <li><a href="https://github.com/Gemmus/FlightGame">Fairweather Tourist</a> - Full-stack, travel based game project</li>
-  <li><a href="https://github.com/Gemmus/CatDetector">Cat Detector</a> - Fluffy object detection using Raspberry Pi 4</li>
-</ul>
+<div align="left" dir="auto"> 
+  <ul>
+    <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website:</a> Fictional static website </a></li>
+    <li><a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html">Binge-watcher:</a> Interactive website built with TVmaze API to search for television shows </a></li>
+  </ul>   
+</div>
+
+<div align="left" dir="auto"> 
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=dracula" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=dracula" />
+</div>
+
+<div align="left" dir="auto"> 
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=dracula" />
+</div>
 
 <h2 align="left">👁️ Visitor Info:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gemmus&label=Profile%20views&color=3CA6A6&style=flat" alt="Gemmus" /> </p>
