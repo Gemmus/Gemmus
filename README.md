@@ -53,7 +53,7 @@
 </div>
 
 <div align="left" dir="auto"> 
-
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" />
 </div>
 
 <h2 align="left">👁️ Visitor Info:</h2>
