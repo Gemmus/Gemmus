@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 <h3 align="left">Stats:</h3>
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/Gemmus/github-readme-stats) ![Gemmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/Gemmus/github-readme-stats) 
+
+![Gemmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight)](https://git.io/streak-stats)
 </p>
