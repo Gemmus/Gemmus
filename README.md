@@ -1,23 +1,6 @@
-<!--
-**Gemmus/Gemmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi, I'm Gemma! 👩🏻‍💻</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--![Tumblr_static_nyan_cat_animation_new](https://github.com/Gemmus/Gemmus/assets/112064697/6b219c2b-ca3f-4416-8965-c9cb9099ed7c)-->
-<h3 align="center">Hi, I'm Gemma!</h3>
-<br>
-
-<h3 align="left">👱‍♀️ About Me:</h3>
+<h2 align="left">✨ About Me:</h2>
 <ul>
   <li>🏙️ I live in Helsinki, Finland</li>
   <li>🌱 I'm currently studying at Metropolia University of Applied Science</li>
@@ -25,9 +8,9 @@ Here are some ideas to get you started:
   <li>🔭 I'm interested in embedded AI systems</li>
   <li>🔥 Fun fact: Math Enthusiast</li>
 </ul> 
-<br>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -41,10 +24,12 @@ Here are some ideas to get you started:
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fiamactivator.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fpycharm-logo.png&f=1&nofb=1&ipt=9bc88f09d107063ef341023a6cb06776c42d2023b8c5b45363be58ff0f0e223a&ipo=images" alt="pycharm" width="30" height="30"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fvisual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png&f=1&nofb=1&ipt=0289a174fb86861873d6b56ab2a1652cb7fd3b966f4ab43d476bbdaf741f5cff&ipo=images" alt="visualstudio" width="30" height="30"/> </a>
+<a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="https://static.macupdate.com/products/61594/s/thonny-logo.png?v=1612192332" alt="Thonny" width="30" height="30"/> </a>
 </p>
-<br>
 
-<h3 align="left">📊 Stats:</h3>
+<h2 align="left">📊 Stats:</h2>
 <div align="left" dir="auto"> 
    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
 </div>
@@ -53,7 +38,15 @@ Here are some ideas to get you started:
    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko" />
    <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight" />
 </div>
-<br>
 
-<h3 align="left">👁️ Visitor Info:</h3>
+<h2 align="left">💾 My Projects:</h2>
+<ul>
+  <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website</a> - Fictional static website </li>
+  <li><a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html">Binge-watcher</a> - Interactive website built with TVmaze API to search for television shows </li>
+  <li><a href="https://github.com/Gemmus/HeartRateDetector">Heart Rate Detector</a> - Software implementation of a pulse detector on an embedded device</li>
+  <li><a href="https://github.com/Gemmus/FlightGame">Fairweather Tourist</a> - Full-stack, travel based game project</li>
+  <li><a href="https://github.com/Gemmus/CatDetector">Cat Detector</a> - Fluffy object detection using Raspberry Pi 4</li>
+</ul>
+
+<h2 align="left">👁️ Visitor Info:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gemmus&label=Profile%20views&color=3CA6A6&style=flat" alt="Gemmus" /> </p>
