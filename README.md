@@ -36,7 +36,7 @@
 
 <div align="left" dir="auto"> 
    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko" />
-   <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight" />
+   <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=merko" />
 </div>
 
 <h2 align="left">💾 My Projects:</h2>
@@ -48,12 +48,12 @@
 </div>
 
 <div align="left" dir="auto"> 
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=dracula" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=dracula" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical" />
 </div>
 
 <div align="left" dir="auto"> 
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=dracula" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" />
 </div>
 
 <h2 align="left">👁️ Visitor Info:</h2>
