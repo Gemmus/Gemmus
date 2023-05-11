@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Gemma! 👩🏻‍💻</h3>
+<img src="https://github.com/Gemmus/Gemmus/assets/112064697/0a34a027-ef32-4b56-935a-7c260b3f4a1e" alt="banner"/></a>
 
 <h2 align="left">✨ About Me:</h2>
 <ul>
