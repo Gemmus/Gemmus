@@ -1,4 +1,4 @@
-<img src="https://github.com/Gemmus/Gemmus/assets/112064697/e22e3df4-58d5-474a-9cdf-e3a6a9b1c7af" alt="banner"/></a>
+<img src="https://github.com/Gemmus/Gemmus/assets/112064697/56ffc786-0659-4dd6-8f66-5bc2d4fc0ec8" alt="banner"/></a>
 
 <h2 align="left">✨ About Me:</h2>
 <ul>
