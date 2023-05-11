@@ -32,15 +32,6 @@
 <a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="http://www.downxia.com/uploadfiles/2019/1230/20191230024202507.png" alt="Thonny" width="30" height="30"/> </a>
 </p>
 
-<h2 align="left">📊 Stats:</h2>
-<div align="left" dir="auto"> 
-   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<div align="left" dir="auto"> 
-   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko" />
-   <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight" />
-</div>
 
 <h2 align="left">💾 Projects:</h2>
 <div align="left" dir="auto"> 
@@ -57,6 +48,16 @@
 
 <div align="left" dir="auto"> 
     <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" />
+</div>
+
+<h2 align="left">📊 Stats:</h2>
+<div align="left" dir="auto"> 
+   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=radical&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
+</div>
+
+<div align="left" dir="auto"> 
+   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Gemmus&show_icons=true&theme=merko" />
+   <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=tokyonight" />
 </div>
 
 <h2 align="left">👁️ Visitor Info:</h2>
