@@ -42,12 +42,12 @@
 </div>
 
 <div align="left" dir="auto"> 
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical" />
+  <a href="https://github.com/Gemmus/HeartRateDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical" /> <7a>
+  <a href="https://github.com/Gemmus/CatDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical" /> </a>
 </div>
 
 <div align="left" dir="auto"> 
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" />
+  <a href="https://github.com/Gemmus/FlightGame" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" /> </a> 
 </div>
 
 <h2 align="left">📊 Stats:</h2>
