@@ -28,9 +28,9 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fiamactivator.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fpycharm-logo.png&f=1&nofb=1&ipt=9bc88f09d107063ef341023a6cb06776c42d2023b8c5b45363be58ff0f0e223a&ipo=images" alt="pycharm" width="30" height="30"/> </a>
+<!--<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fiamactivator.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fpycharm-logo.png&f=1&nofb=1&ipt=9bc88f09d107063ef341023a6cb06776c42d2023b8c5b45363be58ff0f0e223a&ipo=images" alt="pycharm" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fvisual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png&f=1&nofb=1&ipt=0289a174fb86861873d6b56ab2a1652cb7fd3b966f4ab43d476bbdaf741f5cff&ipo=images" alt="visualstudio" width="30" height="30"/> </a>
-<a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="http://www.downxia.com/uploadfiles/2019/1230/20191230024202507.png" alt="Thonny" width="30" height="30"/> </a>
+<a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="http://www.downxia.com/uploadfiles/2019/1230/20191230024202507.png" alt="Thonny" width="30" height="30"/> </a> -->
 </p>
 
 
