@@ -1,6 +1,6 @@
-<img src="https://github.com/Gemmus/Gemmus/assets/112064697/0bda13ed-a5f0-461e-a3a3-ed1ff18711f2" alt="banner" />
+<!-- <img src="https://github.com/Gemmus/Gemmus/assets/112064697/0bda13ed-a5f0-461e-a3a3-ed1ff18711f2" alt="banner" /> -->
 
-<!-- <img src="https://github.com/Gemmus/Gemmus/assets/112064697/dfa78924-6fdf-4bef-abdf-1bde25462f3b" alt="banner" />-->
+<img src="https://github.com/Gemmus/Gemmus/assets/112064697/dfa78924-6fdf-4bef-abdf-1bde25462f3b" alt="banner" />
 
 
 <h2 align="left">✨ About Me:</h2>
