@@ -9,7 +9,7 @@
   <li>🌱 I'm currently studying at Metropolia University of Applied Science</li>
   <li>📚 I'm currently learning C and C++ </li>
   <li>🔭 I'm interested in embedded AI systems</li>
-  <li>🔥 Fun fact: Math enthusiast</li>
+  <li>🔥 Math enthusiast</li>
 </ul> 
 
 
