@@ -59,7 +59,7 @@
 
 <h2 align="left">📊 Stats:</h2>
 <div align="left" dir="auto"> 
-   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" /> 
+   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" /> 
    <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=Gemmus&theme=merko" />
 </div>
 <!-- 
