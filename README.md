@@ -57,7 +57,7 @@
 
 <div align="left" dir="auto">
   <a href="https://github.com/Gemmus/Sudoku" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=Sudoku&theme=radical" /> </a>
-  <!-- <a href="https://github.com/Gemmus/FlightGame" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical" /> </a> -->
+  <a href="https://github.com/Gemmus/TicTacToe_AI" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=TicTacToe_AI&theme=radical" /> </a>
 </div>  
 
 <h2 align="left">📊 Stats:</h2>
