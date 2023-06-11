@@ -7,7 +7,7 @@
 <ul>
   <li>🏙️ I live in Helsinki, Finland</li>
   <li>🌱 I'm currently studying at Metropolia University of Applied Science</li>
-  <li>📚 I'm currently learning C and C++ </li>
+  <li>📚 I'm currently learning C# and Java </li>
   <li>🔭 I'm interested in embedded AI systems</li>
   <li>🔥 Math enthusiast</li>
 </ul> 
