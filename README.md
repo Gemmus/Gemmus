@@ -2,8 +2,12 @@
 
 <img src="https://github.com/Gemmus/Gemmus/assets/112064697/dfa78924-6fdf-4bef-abdf-1bde25462f3b" alt="banner" />
 
+<!-- <a><img alt="All Repositories" title="Location" src="https://custom-icon-badges.demolab.com/badge/Helsinki,%20Finland-green?style=for-the-badge&logo=location&logoColor=white" /></a>
+ <a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" /></a>-->
+
+
 <details open> 
-  <summary><h2 align="left">🌠 About Me:</h2></summary>
+  <summary><h3 align="left">🌠 About Me:</h3></summary>
     <ul>
      <li>🏙️ I live in Helsinki, Finland</li>
      <li>🌱 I'm currently studying at Metropolia University of Applied Science</li>
@@ -63,7 +67,7 @@
     <a href="https://github.com/Gemmus/TicTacToe_AI" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=TicTacToe_AI&theme=radical&hide_border=true&bg_color=00000000" /> </a>
   </div>  
   
-  <a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" style="margin-left:15px;" /></a>
+<a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" /></a>
 </details> 
 
 <details open> 
