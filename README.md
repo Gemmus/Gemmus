@@ -55,18 +55,18 @@
     </div>
 
   <div align="left" dir="auto"> 
-    <a href="https://github.com/Gemmus/HeartRateDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
-    <a href="https://github.com/Gemmus/CatDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/HeartRateDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/CatDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical&bg_color=0d1117" /> </a>
   </div>
 
   <div align="left" dir="auto">
-    <a href="https://github.com/Gemmus/Tetris" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=Tetris&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
-    <a href="https://github.com/Gemmus/FlightGame" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/Tetris" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=Tetris&theme=radical&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/FlightGame" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=FlightGame&theme=radical&bg_color=0d1117" /> </a>
   </div>
 
   <div align="left" dir="auto">
-    <a href="https://github.com/Gemmus/Sudoku" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=Sudoku&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
-    <a href="https://github.com/Gemmus/TicTacToe_AI" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=TicTacToe_AI&theme=radical&hide_border=true&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/Sudoku" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=Sudoku&theme=radical&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/TicTacToe_AI" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=TicTacToe_AI&theme=radical&bg_color=0d1117" /> </a>
   </div>  
   
 <a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" /></a>
