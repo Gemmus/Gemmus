@@ -1,9 +1,8 @@
-<!-- <img src="https://github.com/Gemmus/Gemmus/assets/112064697/0bda13ed-a5f0-461e-a3a3-ed1ff18711f2" alt="banner" />
+<img src="https://github.com/Gemmus/Gemmus/assets/112064697/2029cec7-2407-4eb4-99f1-4c42f8252355" alt="banner" />
 
-<img src="https://github.com/Gemmus/Gemmus/assets/112064697/dfa78924-6fdf-4bef-abdf-1bde25462f3b" alt="banner" /> -->
-
-<img src="https://github.com/Gemmus/Gemmus/assets/112064697/53ba83f2-2859-4844-94c0-fa7e14824464" LT="banner" />
-
+<!--
+<img src="https://github.com/Gemmus/Gemmus/assets/112064697/53ba83f2-2859-4844-94c0-fa7e14824464" alt="banner" />
+-->
 
 <!-- <a><img alt="All Repositories" title="Location" src="https://custom-icon-badges.demolab.com/badge/Helsinki,%20Finland-green?style=for-the-badge&logo=location&logoColor=white" /></a>
  <a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" /></a>-->
