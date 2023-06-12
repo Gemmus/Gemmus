@@ -18,7 +18,7 @@
 </details> 
 
 <details open> 
-  <summary><h2 align="left">🛠️ Languages and Tools:</h2></summary>
+  <summary><h3 align="left">🛠️ Languages and Tools:</h3></summary>
 
   <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -44,7 +44,7 @@
 </details> 
 
 <details open> 
-  <summary><h2 align="left">💾 Projects:</h2></summary>
+  <summary><h3 align="left">💾 Projects:</h3></summary>
     <div align="left" dir="auto"> 
       <ul>
         <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website:</a> Fictional static website </a></li>
@@ -71,7 +71,7 @@
 </details> 
 
 <details open> 
-  <summary><h2 align="left">📊 Stats:</h2></summary>
+  <summary><h3 align="left">📊 Stats:</h3></summary>
     <div align="left" dir="auto"> 
       <img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&hide_border=true&bg_color=00000000" /> 
       <img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=Gemmus&theme=merko&hide_border=true&bg_color=00000000" />
