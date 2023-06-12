@@ -70,6 +70,6 @@
   <summary><h2 align="left">📊 Stats:</h2></summary>
     <div align="left" dir="auto"> 
       <img style="margin-top: 0px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&hide_border=true&bg_color=00000000" /> 
-      <img width=700px src="https://github-readme-activity-graph.vercel.app/graph/?username=Gemmus&theme=merko&hide_border=true&bg_color=00000000" />
+      <img width=650px src="https://github-readme-activity-graph.vercel.app/graph/?username=Gemmus&theme=merko&hide_border=true&bg_color=00000000" />
     </div>
 </details>
