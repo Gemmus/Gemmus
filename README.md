@@ -47,13 +47,22 @@
 
 <details open> 
   <summary><h3 align="left">💾 Projects:</h3></summary>
+  
+ <!-- 
     <div align="left" dir="auto"> 
       <ul>
         <li><a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html">Website:</a> Fictional static website </a></li>
         <li><a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html">Binge-watcher:</a> Interactive website built with TVmaze API to search for television shows </a></li>
       </ul>   
-    </div>
+    </div> -->
 
+  <div align="left" dir="auto"> 
+  <a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html"> <img src="https://custom-icon-badges.demolab.com/badge/-Fictional%20Static%20Website-purple?style=for-the-badge&logo=globe&logoC" alt="website" />
+  <a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html"> <img src="https://custom-icon-badges.demolab.com/badge/-Binge%20Watcher:%20(TVMaze%20API%20Website)-D15E9B?style=for-the-badge&logo=globe&logoC" alt="Binge-watcher" />
+  </div>
+   
+  <br />
+   
   <div align="left" dir="auto"> 
     <a href="https://github.com/Gemmus/HeartRateDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical&bg_color=0d1117" /> </a>
     <a href="https://github.com/Gemmus/CatDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical&bg_color=0d1117" /> </a>
