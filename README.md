@@ -58,7 +58,7 @@
 
   <div align="left" dir="auto"> 
   <a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html"> <img src="https://custom-icon-badges.demolab.com/badge/-Fictional%20Static%20Website-purple?style=for-the-badge&logo=globe&logoC" alt="website" />
-  <a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html"> <img src="https://custom-icon-badges.demolab.com/badge/-Binge%20Watcher:%20(TVMaze%20API%20Website)-D15E9B?style=for-the-badge&logo=globe&logoC" alt="Binge-watcher" />
+  <a href="https://users.metropolia.fi/~shengq/JS_assignments/Module_4/Step5/4.5.html"> <img src="https://custom-icon-badges.demolab.com/badge/-Binge%20Watcher:%20TVMaze%20API%20Website-D15E9B?style=for-the-badge&logo=globe&logoC" alt="Binge-watcher" />
   </div>
    
   <br />
