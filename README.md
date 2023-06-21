@@ -81,7 +81,7 @@
 <a href="https://github.com/Gemmus?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20My%20Repos-F25278?style=for-the-badge&logo=repo&logoColor=white" /></a> -->
 
  <div align="left" dir="auto"> 
-  <a href="https://users.metropolia.fi/~shengq/Assignment/01_CC_home.html"> <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-33B5E8?style=for-the-badge&logo=repo&logoC" alt="repos" />
+  <a href="https://github.com/Gemmus?tab=repositories"> <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-33B5E8?style=for-the-badge&logo=repo&logoC" alt="repos" />
   </div>
   
 </details> 
