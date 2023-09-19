@@ -77,7 +77,7 @@
 <details open> 
   <summary><h3 align="left">📊 Stats:</h3></summary>
     <div align="left" dir="auto"> 
-      <img  width=275px src="https://github-readme-stats-gemmus.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&include_repo=C_language&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117" /> 
+      <img  width=275px src="https://github-readme-stats-gemmus.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&count-private=true&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117" /> 
       <img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=Gemmus&theme=merko&hide_border=true&bg_color=0d1117" />
     </div>
 </details>
