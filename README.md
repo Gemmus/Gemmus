@@ -34,7 +34,7 @@
   </p>
 </details> 
 
-<br />
+<br>
 
 <details open> 
   <summary><h3 align="left">💾 Projects:</h3></summary>
