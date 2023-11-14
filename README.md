@@ -29,6 +29,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
 <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> --> 
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> -->
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry" width="25" height="30"/> </a>
   </p>
 </details> 
 
