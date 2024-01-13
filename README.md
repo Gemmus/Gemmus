@@ -4,7 +4,7 @@
   <summary><h3 align="left">🌠 About Me:</h3></summary>
     <ul>
      <li>🏙️ I live in Helsinki, Finland</li>
-     <li>🌱 I'm currently studying at Metropolia University of Applied Science</li>
+     <li>🌱 I'm currently studying at Metropolia University of Applied Sciences</li>
      <li>🔭 I'm interested in embedded AI systems</li>
      <li>🚀 Math enthusiast</li>
     </ul> 
