@@ -56,7 +56,7 @@
    
   <div align="left" dir="auto"> 
     <a href="https://github.com/Gemmus/HeartRateDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=HeartRateDetector&theme=radical&bg_color=0d1117" /> </a>
-    <a href="https://github.com/Gemmus/CatDetector" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=CatDetector&theme=radical&bg_color=0d1117" /> </a>
+    <a href="https://github.com/Gemmus/PillSpiller" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemmus&repo=PillSpiller&theme=radical&bg_color=0d1117" /> </a>
   </div>
 
   <div align="left" dir="auto">
