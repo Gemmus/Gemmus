@@ -78,7 +78,7 @@
 <details open> 
   <summary><h3 align="left">📊 Stats:</h3></summary>
     <div align="left" dir="auto"> 
-      <img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DigitalSignalProcessing&hide_border=true&bg_color=0d1117" /> 
+      <img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmus&theme=merko&layout=compact&langs_count=8&hide=jupyter%20notebook,pawn,verilog,openedge%20ABL,makefile&exclude_repo=DigitalSignalProcessing&hide_border=true&bg_color=0d1117" /> 
       <img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=Gemmus&theme=merko&hide_border=true&bg_color=0d1117" />
     </div>
 </details>
